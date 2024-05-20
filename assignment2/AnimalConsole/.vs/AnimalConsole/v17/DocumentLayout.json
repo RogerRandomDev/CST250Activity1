@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|c:\\users\\roger\\source\\repos\\animalconsole\\animalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|solutionrelative:animalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|c:\\users\\roger\\source\\repos\\animalconsole\\animalconsole\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|solutionrelative:animalconsole\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|c:\\users\\roger\\source\\repos\\animalconsole\\animalconsole\\robin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|solutionrelative:animalconsole\\robin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|c:\\users\\roger\\source\\repos\\animalconsole\\animalconsole\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|solutionrelative:animalconsole\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|c:\\users\\roger\\source\\repos\\animalconsole\\animalconsole\\idomesticated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F4AE8-CD05-4EC2-9560-17B34DFD4594}|AnimalConsole\\AnimalConsole.csproj|solutionrelative:animalconsole\\idomesticated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robin.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Robin.cs",
+              "RelativeDocumentMoniker": "AnimalConsole\\Robin.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Robin.cs",
+              "RelativeToolTip": "AnimalConsole\\Robin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:13:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDomesticated.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\IDomesticated.cs",
+              "RelativeDocumentMoniker": "AnimalConsole\\IDomesticated.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\IDomesticated.cs",
+              "RelativeToolTip": "AnimalConsole\\IDomesticated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:11:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalConsole\\Dog.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Dog.cs",
+              "RelativeToolTip": "AnimalConsole\\Dog.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:09:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalConsole\\Animal.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Animal.cs",
+              "RelativeToolTip": "AnimalConsole\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:08:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\AnimalConsole\\AnimalConsole\\Program.cs",
+              "RelativeToolTip": "AnimalConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:07:31.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
