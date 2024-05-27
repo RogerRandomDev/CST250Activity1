@@ -1,0 +1,14 @@
+C:\Users\roger\Source\Repos\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\roger\Source\Repos\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\roger\Source\Repos\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\roger\Source\Repos\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\roger\Source\Repos\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\roger\Source\Repos\Factorial\obj\Debug\net8.0\ref\Factorial.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjPIo2Tb26RIpkou/S4yACQi+3rImn0PpRP7sZCAvBMD+0b8uOQzw0ZKWgF+AOz+7mtpdSk7XcO/bZAtaWBUvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roger\\Source\\Repos\\CountToOne\\CountToOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

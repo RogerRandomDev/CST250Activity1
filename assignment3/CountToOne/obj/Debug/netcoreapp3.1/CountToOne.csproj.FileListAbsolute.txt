@@ -1,0 +1,13 @@
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.exe
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.deps.json
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.runtimeconfig.json
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.runtimeconfig.dev.json
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.dll
+C:\Users\roger\Source\Repos\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.pdb
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.AssemblyInfoInputs.cache
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.AssemblyInfo.cs
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.csproj.CoreCompileInputs.cache
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.dll
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.pdb
+C:\Users\roger\Source\Repos\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.genruntimeconfig.cache

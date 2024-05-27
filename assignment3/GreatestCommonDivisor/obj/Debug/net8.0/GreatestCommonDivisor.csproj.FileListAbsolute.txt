@@ -1,0 +1,14 @@
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\bin\Debug\net8.0\GreatestCommonDivisor.exe
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\bin\Debug\net8.0\GreatestCommonDivisor.deps.json
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\bin\Debug\net8.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\bin\Debug\net8.0\GreatestCommonDivisor.dll
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\bin\Debug\net8.0\GreatestCommonDivisor.pdb
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.dll
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\refint\GreatestCommonDivisor.dll
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.pdb
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\GreatestCommonDivisor.genruntimeconfig.cache
+C:\Users\roger\Source\Repos\GreatestCommonDivisor\obj\Debug\net8.0\ref\GreatestCommonDivisor.dll

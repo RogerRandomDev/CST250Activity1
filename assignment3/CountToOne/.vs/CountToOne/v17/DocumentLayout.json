@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roger\\Source\\Repos\\CountToOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FB10A8-BC2A-4AFD-8CB4-D86029F87092}|CountToOne\\CountToOne.csproj|c:\\users\\roger\\source\\repos\\counttoone\\counttoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FB10A8-BC2A-4AFD-8CB4-D86029F87092}|CountToOne\\CountToOne.csproj|solutionrelative:counttoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roger\\Source\\Repos\\CountToOne\\CountToOne\\Program.cs",
+              "RelativeDocumentMoniker": "CountToOne\\Program.cs",
+              "ToolTip": "C:\\Users\\roger\\Source\\Repos\\CountToOne\\CountToOne\\Program.cs",
+              "RelativeToolTip": "CountToOne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:41:43.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

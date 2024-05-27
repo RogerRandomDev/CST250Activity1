@@ -1,0 +1,14 @@
+C:\Users\roger\Source\Repos\KnightsTour\bin\Debug\net8.0\KnightsTour.exe
+C:\Users\roger\Source\Repos\KnightsTour\bin\Debug\net8.0\KnightsTour.deps.json
+C:\Users\roger\Source\Repos\KnightsTour\bin\Debug\net8.0\KnightsTour.runtimeconfig.json
+C:\Users\roger\Source\Repos\KnightsTour\bin\Debug\net8.0\KnightsTour.dll
+C:\Users\roger\Source\Repos\KnightsTour\bin\Debug\net8.0\KnightsTour.pdb
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.AssemblyInfoInputs.cache
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.AssemblyInfo.cs
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.dll
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\refint\KnightsTour.dll
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.pdb
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\KnightsTour.genruntimeconfig.cache
+C:\Users\roger\Source\Repos\KnightsTour\obj\Debug\net8.0\ref\KnightsTour.dll

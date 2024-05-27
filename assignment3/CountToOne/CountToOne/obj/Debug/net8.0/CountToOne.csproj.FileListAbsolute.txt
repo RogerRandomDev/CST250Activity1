@@ -1,0 +1,14 @@
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\bin\Debug\net8.0\CountToOne.exe
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\bin\Debug\net8.0\CountToOne.deps.json
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\bin\Debug\net8.0\CountToOne.runtimeconfig.json
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\bin\Debug\net8.0\CountToOne.dll
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\bin\Debug\net8.0\CountToOne.pdb
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.AssemblyInfoInputs.cache
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.AssemblyInfo.cs
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.csproj.CoreCompileInputs.cache
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.dll
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\refint\CountToOne.dll
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.pdb
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\CountToOne.genruntimeconfig.cache
+C:\Users\roger\Source\Repos\CountToOne\CountToOne\obj\Debug\net8.0\ref\CountToOne.dll
