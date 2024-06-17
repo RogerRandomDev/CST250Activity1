@@ -1,0 +1,21 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person_Form.Properties.Resources.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.GenerateResource.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Form1.Form1.resources
+Z:\week6\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe.config
+Z:\week6\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe
+Z:\week6\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.pdb
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.AssemblyReference.cache
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Form1.Form1.resources
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person_Form.Properties.Resources.resources
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.GenerateResource.cache
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.CoreCompileInputs.cache
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.exe
+Z:\week6\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.pdb
